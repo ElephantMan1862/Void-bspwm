@@ -1,0 +1,18 @@
+# root için bash aktif etme
+
+1- tty ekranına girilir (ctrl+alt+f2)
+2- root yazıp , ardından şifre girerek root girişi yapılır
+3- ardından "chsh -s /bin/bash" komutu girilir ve artık root içerisindeki ".bashrc" dosyamız aktif.
+
+# alsamixer ses seviyesini kayıt etme
+
+"sudo alsa ctl store" komutu girilerek yaptığımız ses değişiklikleri kayıt edilir.
+
+# pulseaudio default haline getirmek (güvenlik/performans yan etkileri olabilir)
+
+root girişi yaptıktan sonra ardından;
+
+ln -s /etc/sv/pulseaudio /var/service/
+usermod -a -G pulse-access dogukan
+
+komutlarını giriyoruz.

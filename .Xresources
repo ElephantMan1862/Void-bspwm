@@ -1,0 +1,86 @@
+! do not scroll with output
+URxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+
+! scrollbar
+URxvt.scrollStyle: rxvt
+URxvt.scrollBar: false
+
+! perl extensions
+URxvt.perl-ext-common: default,matcher
+URxvt.matcher.button: 1
+URxvt.urlLauncher: chromium
+
+! other settings
+URxvt.depth: 32
+URxvt.geometry: 102x26
+URxvt.transparent: false
+URxvt.fading: 0
+URxvt.urgentOnBell: true
+URxvt.visualBell: true
+URxvt.loginShell: true
+URxvt.saveLines: 5000
+URxvt.internalBorder: 3
+URxvt.lineSpace: 0
+
+! black transparency
+URxvt.background: rgba:0000/0000/0200/c800
+
+! font style
+URxvt.font: xft:DejaVu Sans Mono:size=13
+URxvt.letterSpace: 0
+
+! cursor
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+
+! special
+*.foreground:   #f8f8f2
+*.background:   #272822
+*.cursorColor:  #f8f8f2
+
+! black
+*.color0:       #272822
+*.color8:       #75715e
+
+! red
+*.color1:       #f92672
+*.color9:       #f92672
+
+! green
+*.color2:       #a6e22e
+*.color10:      #a6e22e
+
+! yellow
+*.color3:       #f4bf75
+*.color11:      #f4bf75
+
+! blue
+*.color4:       #66d9ef
+*.color12:      #66d9ef
+
+! magenta
+*.color5:       #ae81ff
+*.color13:      #ae81ff
+
+! cyan
+*.color6:       #a1efe4
+*.color14:      #a1efe4
+
+! white
+*.color7:       #f8f8f2
+*.color15:      #f9f8f5
+
+! rofi theme
+rofi.color-enabled: true
+rofi.hide-scrollbar: true
+rofi.bw : 0
+rofi.color-window: argb:CC000000, #75715E, argb:3a1e2529
+rofi.color-normal: argb:00273238, #A6E22E, argb:3a273238, #272822, #F92672
+rofi.color-active: argb:00273238, #AE81FF, argb:3a273238, #272822, #AE81FF
+rofi.color-urgent: argb:00273238, #66D9EF, argb:3a273238, #272822, #F4BF75

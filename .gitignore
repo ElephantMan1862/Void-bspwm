@@ -1,0 +1,39 @@
+.cache
+.dbus
+.local
+.pki
+.vim
+.bash_history
+.bash_logout
+.inputrc
+.viminfo
+.Xauthority
+
+.config/*
+!.config/bspwm
+!.config/cava
+!.config/gtk-3.0
+!.config/mpd
+!.config/ncmpcpp
+!.config/polybar
+!.config/qutebrowser
+!.config/ranger
+!.config/rtorrent
+!.config/sxhkd
+
+.wallpapers/*
+!.wallpapers/astronot.jpg
+!.wallpapers/OldWomanAndChild.jpg
+!.wallpapers/skywolf.jpg
+
+Documents/*
+!Documents/Önemli\ Notlar
+!Documents/Root\ Ayarları
+
+Downloads
+
+Musics/*
+!Musics/Gucci\ Mane-Big\ Booty\ ft.\ Megan\ Thee\ Stallion.opus
+
+Pictures/*
+!Pictures/Screenshots
