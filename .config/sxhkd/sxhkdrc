@@ -9,7 +9,7 @@ super + Return
 # program launcher
 super + @space
 #	dmenu_run
-	rofi -modi drun,run -show drun -font "Hack 10" -show-icons
+	rofi -modi drun,run -show drun -font "DejaVu Sans Mono 10" -show-icons
 
 # make sxhkd reload its configuration files:
 super + Escape
@@ -74,7 +74,7 @@ super + bracket{left,right}
 # focus the last node/desktop
 super + {grave,Tab}
 #	bspc {node,desktop} -f last
-	rofi -show window -font "Hack 10" -show-icons	
+	rofi -show window -font "DejaVu Sans Mono 10" -show-icons	
 
 # focus the older or newer node in the focus history
 super + {o,i}
