@@ -3332,3 +3332,11 @@ Oct 30 10:17 : player: played "Там шли два брата.m4a"
 Oct 30 10:17 : alsa_output: Decoder is too slow; playing silence to avoid xrun
 Oct 30 10:19 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
 Oct 30 10:19 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 10:22 : player: played "Там шли два брата.m4a"
+Oct 30 10:22 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 10:24 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 10:26 : player: played "Там шли два брата.m4a"
+Oct 30 10:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 10:28 : client: [2] opened from 127.0.0.1:54382
+Oct 30 10:28 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 10:28 : client: [2] closed

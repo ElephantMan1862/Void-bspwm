@@ -30,7 +30,8 @@ Documents/*
 !Documents/Önemli\ Notlar
 !Documents/Root\ Ayarları
 
-Downloads
+Downloads/*
+!Downloads/MyVoid-install-packages.sh
 
 Musics/*
 !Musics/Gucci\ Mane-Big\ Booty\ ft.\ Megan\ Thee\ Stallion.opus

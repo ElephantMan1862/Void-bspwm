@@ -1,0 +1,1 @@
+sudo xbps-install xorg alsa-utils alsa-plugins-pulseaudio numlockx rxvt-unicode blackbird-themes font-awesome5 compton bspwm sxhkd polybar rofi htop feh scrot xclip mpv ffmpeg youtube-dl mpd ncmpcpp zathura-pdf-poppler libreoffice vim ranger rtorrent chromium qutebrowser telegram-desktop git ufetch cava
