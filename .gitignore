@@ -8,6 +8,9 @@
 .inputrc
 .viminfo
 .Xauthority
+.steam
+.steampath
+.steampid
 
 .config/*
 !.config/bspwm

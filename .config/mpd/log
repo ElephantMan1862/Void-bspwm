@@ -3340,3 +3340,214 @@ Oct 30 10:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
 Oct 30 10:28 : client: [2] opened from 127.0.0.1:54382
 Oct 30 10:28 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
 Oct 30 10:28 : client: [2] closed
+Oct 30 11:58 : client: [0] closed
+Oct 30 11:59 : client: [3] opened from 127.0.0.1:55808
+Oct 30 11:59 : client: [4] opened from 127.0.0.1:55850
+Oct 30 11:59 : client: [4] closed
+Oct 30 12:01 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:03 : player: played "Там шли два брата.m4a"
+Oct 30 12:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:06 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:08 : client: [3] closed
+Oct 30 12:08 : exception: Failed to play on "mpd alsamixer-output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Oct 30 12:08 : player: played "Там шли два брата.m4a"
+Oct 30 12:09 : avahi: Failed to create client: Daemon not running
+Oct 30 12:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 12:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 12:09 : client: [0] opened from 127.0.0.1:46918
+Oct 30 12:09 : client: [1] opened from 127.0.0.1:46920
+Oct 30 12:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 12:09 : client: [1] closed
+Oct 30 12:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:09 : player: played "Там шли два брата.m4a"
+Oct 30 12:10 : client: [0] closed
+Oct 30 12:10 : exception: Failed to play on "mpd alsamixer-output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Oct 30 12:10 : client: [2] opened from 127.0.0.1:46922
+Oct 30 12:11 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:11 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:13 : player: played "Там шли два брата.m4a"
+Oct 30 12:13 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:16 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:18 : player: played "Там шли два брата.m4a"
+Oct 30 12:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:20 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:20 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:23 : player: played "Там шли два брата.m4a"
+Oct 30 12:23 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:25 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:28 : player: played "Там шли два брата.m4a"
+Oct 30 12:28 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:30 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:30 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:32 : player: played "Там шли два брата.m4a"
+Oct 30 12:32 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:34 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:37 : player: played "Там шли два брата.m4a"
+Oct 30 12:37 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 12:39 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 12:39 : client: [3] opened from 127.0.0.1:47888
+Oct 30 12:39 : client: [3] closed
+Oct 30 12:50 : client: [2] closed
+Oct 30 12:50 : player: played "Там шли два брата.m4a"
+Oct 30 13:41 : avahi: Failed to create client: Daemon not running
+Oct 30 13:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 13:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 13:41 : client: [0] opened from 127.0.0.1:46144
+Oct 30 13:45 : client: [1] opened from 127.0.0.1:46352
+Oct 30 13:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 13:45 : client: [1] closed
+Oct 30 13:48 : player: played "Там шли два брата.m4a"
+Oct 30 13:50 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 13:53 : player: played "Там шли два брата.m4a"
+Oct 30 13:55 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 13:57 : player: played "Там шли два брата.m4a"
+Oct 30 13:59 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 13:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:02 : player: played "Там шли два брата.m4a"
+Oct 30 14:02 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:04 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:07 : player: played "Там шли два брата.m4a"
+Oct 30 14:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:09 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:09 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:11 : player: played "Там шли два брата.m4a"
+Oct 30 14:14 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:16 : player: played "Там шли два брата.m4a"
+Oct 30 14:16 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:18 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:21 : player: played "Там шли два брата.m4a"
+Oct 30 14:21 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:23 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:26 : player: played "Там шли два брата.m4a"
+Oct 30 14:26 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:28 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:30 : player: played "Там шли два брата.m4a"
+Oct 30 14:30 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:32 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:35 : player: played "Там шли два брата.m4a"
+Oct 30 14:37 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:40 : player: played "Там шли два брата.m4a"
+Oct 30 14:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:42 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:42 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:44 : player: played "Там шли два брата.m4a"
+Oct 30 14:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:47 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:49 : player: played "Там шли два брата.m4a"
+Oct 30 14:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:51 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:51 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 14:54 : player: played "Там шли два брата.m4a"
+Oct 30 14:56 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 14:59 : player: played "Там шли два брата.m4a"
+Oct 30 14:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 15:01 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 15:03 : player: played "Там шли два брата.m4a"
+Oct 30 15:03 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 15:05 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 15:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 15:08 : player: played "Там шли два брата.m4a"
+Oct 30 15:08 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 15:09 : client: [2] opened from 127.0.0.1:48234
+Oct 30 15:09 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 15:09 : client: [2] closed
+Oct 30 17:58 : client: [3] opened from 127.0.0.1:53506
+Oct 30 17:58 : client: [3] closed
+Oct 30 17:58 : client: [4] opened from 127.0.0.1:53508
+Oct 30 17:58 : client: [4] closed
+Oct 30 17:58 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 17:58 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 18:00 : player: played "Там шли два брата.m4a"
+Oct 30 18:00 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 18:02 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 18:05 : player: played "Там шли два брата.m4a"
+Oct 30 18:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 18:07 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 18:10 : player: played "Там шли два брата.m4a"
+Oct 30 18:10 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 18:12 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 18:14 : player: played "Там шли два брата.m4a"
+Oct 30 18:14 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Oct 30 18:15 : client: [5] opened from 127.0.0.1:53934
+Oct 30 18:15 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 18:15 : client: [5] closed
+Oct 30 18:15 : client: [0] closed
+Oct 30 18:26 : avahi: Failed to create client: Daemon not running
+Oct 30 18:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 18:26 : client: [0] opened from 127.0.0.1:54256
+Oct 30 20:05 : client: [0] closed
+Oct 30 21:11 : avahi: Failed to create client: Daemon not running
+Oct 30 21:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 21:11 : client: [0] opened from 127.0.0.1:56582
+Oct 30 21:30 : client: [1] opened from 127.0.0.1:56968
+Oct 30 21:30 : client: [1] closed
+Oct 30 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 21:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 21:30 : client: [2] opened from 127.0.0.1:56970
+Oct 30 21:30 : client: [2] closed
+Oct 30 21:30 : client: [3] opened from 127.0.0.1:56972
+Oct 30 21:30 : client: [3] closed
+Oct 30 21:30 : client: [4] opened from 127.0.0.1:56974
+Oct 30 21:30 : client: [4] closed
+Oct 30 21:33 : client: [5] opened from 127.0.0.1:57024
+Oct 30 21:34 : client: [5] closed
+Oct 30 21:34 : client: [6] opened from 127.0.0.1:57100
+Oct 30 21:36 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 30 21:38 : player: played "Там шли два брата.m4a"
+Oct 30 21:39 : client: [6] closed
+                                                                                         Oct 30 22:06 : avahi: Failed to create client: Daemon not running
+Oct 30 22:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 22:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 22:06 : client: [0] opened from 127.0.0.1:41640
+Oct 30 22:14 : avahi: Failed to create client: Daemon not running
+Oct 30 22:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 22:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 22:14 : client: [0] opened from 127.0.0.1:49972
+Oct 30 23:42 : avahi: Failed to create client: Daemon not running
+Oct 30 23:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 23:42 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 30 23:42 : client: [0] opened from 127.0.0.1:40288
+Oct 31 02:43 : client: [0] closed
+Oct 31 02:43 : player: played "Там шли два брата.m4a"
+Oct 31 14:17 : avahi: Failed to create client: Daemon not running
+Oct 31 14:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 31 14:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 31 14:17 : client: [0] opened from 127.0.0.1:38646
+Oct 31 14:29 : client: [1] opened from 127.0.0.1:38896
+Oct 31 14:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Oct 31 14:29 : client: [1] closed
+Oct 31 14:29 : client: [2] opened from 127.0.0.1:38900
+Oct 31 14:29 : client: [2] closed
+Oct 31 14:31 : player: played "Там шли два брата.m4a"
+Oct 31 14:33 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 31 14:35 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Oct 31 14:37 : client: [3] opened from 127.0.0.1:39058
+Oct 31 14:37 : client: [3] closed
+Nov 01 02:48 : client: [0] closed
+Nov 01 03:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 03:44 : avahi: Failed to create client: Daemon not running
+Nov 01 03:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 03:44 : client: [0] opened from 127.0.0.1:37152
+Nov 01 03:54 : client: [0] closed
+Nov 01 03:54 : player: played "Там шли два брата.m4a"
+Nov 01 14:14 : avahi: Failed to create client: Daemon not running
+Nov 01 14:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 14:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 14:14 : client: [0] opened from 127.0.0.1:40670
+Nov 01 17:24 : client: [0] closed
+Nov 01 17:24 : client: [1] opened from 127.0.0.1:44868
+Nov 01 17:31 : client: [1] closed
+Nov 01 17:31 : client: [2] opened from 127.0.0.1:45034
+Nov 01 17:33 : client: [2] closed
+Nov 01 17:33 : client: [3] opened from 127.0.0.1:45120
+Nov 01 17:34 : client: [3] closed
+Nov 01 17:34 : client: [4] opened from 127.0.0.1:45152
+Nov 01 17:35 : client: [4] closed
+Nov 01 17:35 : client: [5] opened from 127.0.0.1:45154
+Nov 01 18:15 : client: [6] opened from 127.0.0.1:46588
+Nov 01 18:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 18:15 : client: [6] closed
+Nov 01 18:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 18:15 : client: [7] opened from 127.0.0.1:46632
+Nov 01 18:15 : player: played "Там шли два брата.m4a"
+Nov 01 18:15 : client: [7] closed
