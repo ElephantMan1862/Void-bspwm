@@ -3621,3 +3621,19 @@ Nov 02 04:18 : client: [17] opened from 127.0.0.1:48872
 Nov 02 04:18 : player: played "Там шли два брата.m4a"
 Nov 02 04:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
 Nov 02 04:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 02 15:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 15:23 : avahi: Failed to create client: Daemon not running
+Nov 02 15:23 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:23 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 15:23 : player: played "Там шли два брата.m4a"
+Nov 02 15:23 : client: [0] opened from 127.0.0.1:36950
+Nov 02 15:23 : client: [1] opened from 127.0.0.1:36952
+Nov 02 15:23 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:23 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:23 : player: played "Там шли два брата.m4a"
+Nov 02 15:23 : client: [1] closed
+Nov 02 15:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 15:25 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 15:27 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:27 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
