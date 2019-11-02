@@ -3551,3 +3551,73 @@ Nov 01 18:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
 Nov 01 18:15 : client: [7] opened from 127.0.0.1:46632
 Nov 01 18:15 : player: played "Там шли два брата.m4a"
 Nov 01 18:15 : client: [7] closed
+Nov 01 20:44 : client: [8] opened from 127.0.0.1:49400
+Nov 01 20:44 : client: [8] closed
+Nov 01 20:44 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 20:47 : player: played "Там шли два брата.m4a"
+Nov 01 20:50 : player: played "Там шли два брата.m4a"
+Nov 01 20:52 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 20:52 : client: [9] opened from 127.0.0.1:49584
+Nov 01 20:52 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 20:52 : client: [9] closed
+Nov 01 21:41 : client: [5] closed
+Nov 01 22:47 : avahi: Failed to create client: Daemon not running
+Nov 01 22:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 22:47 : client: [0] opened from 127.0.0.1:44000
+Nov 01 23:05 : client: [1] opened from 127.0.0.1:44002
+Nov 01 23:05 : client: [1] closed
+Nov 01 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 23:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 01 23:07 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:10 : player: played "Там шли два брата.m4a"
+Nov 01 23:12 : player: played "Там шли два брата.m4a"
+Nov 01 23:12 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 23:14 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:16 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:19 : player: played "Там шли два брата.m4a"
+Nov 01 23:22 : player: played "Там шли два брата.m4a"
+Nov 01 23:22 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 23:24 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:26 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:28 : player: played "Там шли два брата.m4a"
+Nov 01 23:31 : player: played "Там шли два брата.m4a"
+Nov 01 23:31 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 23:33 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:33 : client: [2] opened from 127.0.0.1:44728
+Nov 01 23:33 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 01 23:33 : client: [2] closed
+Nov 02 03:56 : client: [0] closed
+Nov 02 03:56 : client: [3] opened from 127.0.0.1:48280
+Nov 02 03:59 : client: [3] closed
+Nov 02 03:59 : client: [4] opened from 127.0.0.1:48400
+Nov 02 04:02 : client: [4] closed
+Nov 02 04:02 : client: [5] opened from 127.0.0.1:48546
+Nov 02 04:03 : client: [5] closed
+Nov 02 04:03 : client: [6] opened from 127.0.0.1:48548
+Nov 02 04:04 : client: [6] closed
+Nov 02 04:04 : client: [7] opened from 127.0.0.1:48550
+Nov 02 04:05 : client: [7] closed
+Nov 02 04:05 : client: [8] opened from 127.0.0.1:48552
+Nov 02 04:05 : client: [8] closed
+Nov 02 04:05 : client: [9] opened from 127.0.0.1:48554
+Nov 02 04:05 : client: [9] closed
+Nov 02 04:05 : client: [10] opened from 127.0.0.1:48556
+Nov 02 04:07 : client: [10] closed
+Nov 02 04:07 : client: [11] opened from 127.0.0.1:48558
+Nov 02 04:09 : client: [11] closed
+Nov 02 04:09 : client: [12] opened from 127.0.0.1:48560
+Nov 02 04:10 : client: [12] closed
+Nov 02 04:10 : client: [13] opened from 127.0.0.1:48562
+Nov 02 04:13 : client: [14] opened from 127.0.0.1:48698
+Nov 02 04:13 : client: [14] closed
+Nov 02 04:13 : client: [15] opened from 127.0.0.1:48702
+Nov 02 04:15 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 04:16 : exception: Failed to play on "mpd alsamixer-output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Nov 02 04:16 : client: [13] closed
+Nov 02 04:16 : client: [15] closed
+Nov 02 04:17 : client: [16] opened from 127.0.0.1:48870
+Nov 02 04:18 : client: [16] closed
+Nov 02 04:18 : client: [17] opened from 127.0.0.1:48872
+Nov 02 04:18 : player: played "Там шли два брата.m4a"
+Nov 02 04:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 02 04:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
