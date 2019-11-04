@@ -2,7 +2,7 @@ sw_volume: 58
 audio_device_state:1:mpd alsamixer-output
 audio_device_state:1:toggle_visualizer
 state: play
-current: 2
+current: 4
 time: 4.073000
 random: 0
 repeat: 1
@@ -16,4 +16,10 @@ playlist_begin
 1:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
 2:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
 3:Там шли два брата.m4a
+4:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
+5:Там шли два брата.m4a
+6:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
+7:Там шли два брата.m4a
+8:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
+9:Там шли два брата.m4a
 playlist_end

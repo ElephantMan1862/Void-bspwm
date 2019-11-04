@@ -8,11 +8,6 @@
 
 "sudo alsa ctl store" komutu girilerek yaptığımız ses değişiklikleri kayıt edilir.
 
-# pulseaudio default haline getirmek (güvenlik/performans yan etkileri olabilir)
+# ffmpeg ile sesli video ekran kaydı almak için
 
-root girişi yaptıktan sonra ardından;
-
-ln -s /etc/sv/pulseaudio /var/service/
-usermod -a -G pulse-access dogukan
-
-komutlarını giriyoruz.
+"ffmpeg -f x11grab -video_size 1920x1080 -framerate 25 -i $DISPLAY -f alsa -i default -c:v libx264 -preset ultrafast -c:a aac screen.mkv" komutunu girebiliriz.

@@ -3637,3 +3637,146 @@ Nov 02 15:23 : exception: OutputThread could not get realtime scheduling, contin
 Nov 02 15:25 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
 Nov 02 15:27 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
 Nov 02 15:27 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:27 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 15:27 : player: played "Там шли два брата.m4a"
+Nov 02 15:27 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:27 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:27 : player: played "Там шли два брата.m4a"
+Nov 02 15:27 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:27 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:27 : player: played "Там шли два брата.m4a"
+Nov 02 15:32 : client: [2] opened from 127.0.0.1:37418
+Nov 02 15:32 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:32 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:32 : player: played "Там шли два брата.m4a"
+Nov 02 15:32 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:32 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:32 : client: [2] closed
+Nov 02 15:35 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 15:35 : client: [3] opened from 127.0.0.1:37490
+Nov 02 15:35 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 15:35 : client: [3] closed
+Nov 02 15:54 : client: [4] opened from 127.0.0.1:37834
+Nov 02 15:54 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 02 15:56 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:56 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:56 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 15:56 : player: played "Там шли два брата.m4a"
+Nov 02 15:56 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:56 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:56 : player: played "Там шли два брата.m4a"
+Nov 02 15:56 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 15:56 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 15:56 : player: played "Там шли два брата.m4a"
+Nov 02 15:57 : client: [5] opened from 127.0.0.1:37886
+Nov 02 15:57 : client: [5] closed
+Nov 02 16:14 : client: [4] closed
+Nov 02 16:14 : client: [6] opened from 127.0.0.1:38094
+Nov 02 16:14 : client: [6] closed
+Nov 02 16:16 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 16:17 : client: [7] opened from 127.0.0.1:38204
+Nov 02 16:17 : client: [7] closed
+Nov 02 17:30 : client: [0] closed
+Nov 02 17:30 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 17:33 : avahi: Failed to create client: Daemon not running
+Nov 02 17:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 17:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 17:33 : client: [0] opened from 127.0.0.1:38062
+Nov 02 19:14 : client: [1] opened from 127.0.0.1:40498
+Nov 02 19:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 19:14 : client: [1] closed
+Nov 02 19:15 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 02 19:15 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 02 19:15 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 02 19:15 : player: played "Там шли два брата.m4a"
+Nov 02 19:36 : client: [0] closed
+Nov 02 20:45 : avahi: Failed to create client: Daemon not running
+Nov 02 20:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 02 20:45 : client: [0] opened from 127.0.0.1:44072
+Nov 03 04:30 : client: [0] closed
+Nov 03 15:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 15:03 : avahi: Failed to create client: Daemon not running
+Nov 03 15:03 : client: [0] opened from 127.0.0.1:42068
+Nov 03 19:48 : client: [1] opened from 127.0.0.1:46290
+Nov 03 19:48 : client: [1] closed
+Nov 03 19:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 19:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 19:48 : client: [2] opened from 127.0.0.1:46296
+Nov 03 19:48 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 03 19:48 : client: [2] closed
+Nov 03 19:49 : client: [0] closed
+Nov 03 21:16 : avahi: Failed to create client: Daemon not running
+Nov 03 21:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 21:16 : client: [0] opened from 127.0.0.1:36254
+Nov 03 21:28 : client: [1] opened from 127.0.0.1:36564
+Nov 03 21:28 : client: [1] closed
+Nov 03 21:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 21:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 03 21:28 : client: [2] opened from 127.0.0.1:36570
+Nov 03 21:29 : client: [3] opened from 127.0.0.1:36572
+Nov 03 21:29 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 03 21:29 : client: [3] closed
+Nov 03 21:30 : client: [2] closed
+Nov 03 21:31 : client: [4] opened from 127.0.0.1:36578
+Nov 03 21:31 : client: [4] closed
+Nov 03 21:32 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 03 21:32 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 03 21:33 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 03 21:33 : player: played "Там шли два брата.m4a"
+Nov 03 21:33 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 03 21:33 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 03 21:33 : player: played "Там шли два брата.m4a"
+Nov 03 21:33 : client: [5] opened from 127.0.0.1:36588
+Nov 03 21:33 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 03 21:33 : client: [5] closed
+Nov 03 21:33 : client: [6] opened from 127.0.0.1:36590
+Nov 03 21:33 : client: [6] closed
+Nov 03 21:34 : client: [7] opened from 127.0.0.1:36592
+Nov 03 21:34 : client: [7] closed
+Nov 03 21:34 : client: [8] opened from 127.0.0.1:36594
+Nov 03 21:34 : client: [8] closed
+Nov 03 21:34 : client: [9] opened from 127.0.0.1:36596
+Nov 03 21:34 : client: [9] closed
+Nov 03 21:34 : client: [10] opened from 127.0.0.1:36598
+Nov 03 21:34 : client: [10] closed
+Nov 03 21:34 : client: [11] opened from 127.0.0.1:36600
+Nov 03 21:34 : client: [11] closed
+Nov 03 21:34 : client: [12] opened from 127.0.0.1:36604
+Nov 03 21:35 : client: [12] closed
+Nov 03 21:35 : client: [13] opened from 127.0.0.1:36608
+Nov 03 21:36 : client: [14] opened from 127.0.0.1:36630
+Nov 03 21:36 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 03 21:36 : client: [14] closed
+Nov 03 21:37 : client: [13] closed
+Nov 04 04:04 : client: [15] opened from 127.0.0.1:40580
+Nov 04 04:04 : client: [15] closed
+Nov 04 04:04 : client: [16] opened from 127.0.0.1:40582
+Nov 04 04:04 : client: [16] closed
+Nov 04 04:06 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 04:06 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 04:06 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:06 : player: played "Там шли два брата.m4a"
+Nov 04 04:06 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 04:06 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 04:06 : player: played "Там шли два брата.m4a"
+Nov 04 04:06 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 04:06 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 04:06 : player: played "Там шли два брата.m4a"
+Nov 04 04:08 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:08 : client: [17] opened from 127.0.0.1:40648
+Nov 04 04:08 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:08 : client: [17] closed
+Nov 04 04:08 : client: [18] opened from 127.0.0.1:40650
+Nov 04 04:08 : client: [18] closed
+Nov 04 04:09 : client: [19] opened from 127.0.0.1:40654
+Nov 04 04:09 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:09 : client: [19] closed
+Nov 04 04:09 : client: [20] opened from 127.0.0.1:40656
+Nov 04 04:09 : client: [20] closed
+Nov 04 04:11 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 04:11 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 04:11 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:11 : player: played "Там шли два брата.m4a"
+Nov 04 04:11 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 04:11 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 04:11 : player: played "Там шли два брата.m4a"
