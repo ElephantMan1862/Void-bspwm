@@ -3780,3 +3780,343 @@ Nov 04 04:11 : player: played "Там шли два брата.m4a"
 Nov 04 04:11 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
 Nov 04 04:11 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
 Nov 04 04:11 : player: played "Там шли два брата.m4a"
+Nov 04 04:13 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 04:13 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 04:13 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:13 : player: played "Там шли два брата.m4a"
+Nov 04 04:14 : client: [21] opened from 127.0.0.1:40740
+Nov 04 04:14 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 04:14 : client: [21] closed
+Nov 04 04:38 : client: [0] closed
+Nov 04 14:55 : avahi: Failed to create client: Daemon not running
+Nov 04 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 14:55 : client: [0] opened from 127.0.0.1:58824
+Nov 04 15:11 : client: [1] opened from 127.0.0.1:58952
+Nov 04 15:11 : client: [1] closed
+Nov 04 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 15:11 : client: [2] opened from 127.0.0.1:58954
+Nov 04 15:11 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 15:11 : client: [2] closed
+Nov 04 15:15 : client: [3] opened from 127.0.0.1:58962
+Nov 04 15:15 : client: [3] closed
+Nov 04 15:15 : client: [4] opened from 127.0.0.1:58964
+Nov 04 15:15 : client: [4] closed
+Nov 04 15:15 : client: [5] opened from 127.0.0.1:58966
+Nov 04 15:15 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 15:15 : client: [5] closed
+Nov 04 15:46 : client: [6] opened from 127.0.0.1:59404
+Nov 04 15:46 : exception: Failed to decode /home/dogukan/Musics/Там шли два брата.m4a
+Nov 04 15:46 : exception: nested: Failed to open '/home/dogukan/Musics/Там шли два брата.m4a': No such file or directory
+Nov 04 15:46 : player: played "Там шли два брата.m4a"
+Nov 04 15:46 : client: [6] closed
+Nov 04 15:47 : update: removing Там шли два брата.m4a
+Nov 04 15:47 : update: updating /Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
+Nov 04 15:47 : update: added /Laura Branigan - Self Control.mp4-1nw-V5eEeAk.opus
+Nov 04 15:49 : update: removing Laura Branigan - Self Control.mp4-1nw-V5eEeAk.opus
+Nov 04 15:49 : update: added /Laura Branigan - Self Control.opus
+Nov 04 15:49 : update: removing Laura Branigan - Self Control.opus
+Nov 04 15:49 : update: added /Laura Branigan-Self Control.opus
+Nov 04 15:50 : client: [7] opened from 127.0.0.1:59542
+Nov 04 15:50 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 15:50 : client: [7] closed
+Nov 04 15:55 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 15:57 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 15:59 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:01 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:03 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:05 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:10 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 16:12 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:14 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:14 : client: [8] opened from 127.0.0.1:59858
+Nov 04 16:14 : client: [8] closed
+Nov 04 16:19 : client: [9] opened from 127.0.0.1:60032
+Nov 04 16:19 : client: [9] closed
+Nov 04 16:19 : client: [10] opened from 127.0.0.1:60034
+Nov 04 16:19 : client: [10] closed
+Nov 04 16:21 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:23 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:25 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 16:28 : client: [11] opened from 127.0.0.1:60282
+Nov 04 16:28 : client: [11] closed
+Nov 04 19:01 : client: [12] opened from 127.0.0.1:34510
+Nov 04 19:01 : client: [12] closed
+Nov 04 19:03 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 19:03 : client: [13] opened from 127.0.0.1:34604
+Nov 04 19:03 : client: [13] closed
+Nov 04 19:07 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 04 19:07 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 19:09 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:12 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 04 19:12 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:14 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:16 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 04 19:16 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:18 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:23 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 19:25 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:27 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:29 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:31 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:33 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:38 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 19:40 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:42 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:44 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:47 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:49 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:53 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 19:56 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 19:58 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 20:00 : client: [14] opened from 127.0.0.1:36388
+Nov 04 20:00 : client: [14] closed
+Nov 04 20:07 : client: [0] closed
+Nov 04 20:07 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 21:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 21:14 : avahi: Failed to create client: Daemon not running
+Nov 04 21:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 21:14 : client: [0] opened from 127.0.0.1:56592
+Nov 04 21:49 : client: [1] opened from 127.0.0.1:57580
+Nov 04 21:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 04 21:49 : client: [1] closed
+Nov 04 21:49 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 21:51 : client: [2] opened from 127.0.0.1:57608
+Nov 04 21:51 : client: [2] closed
+Nov 04 21:51 : client: [3] opened from 127.0.0.1:57610
+Nov 04 21:51 : client: [3] closed
+Nov 04 21:51 : client: [4] opened from 127.0.0.1:57612
+Nov 04 21:51 : client: [4] closed
+Nov 04 21:56 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 21:58 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:00 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:02 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:04 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:05 : client: [5] opened from 127.0.0.1:57912
+Nov 04 22:05 : client: [5] closed
+Nov 04 22:09 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 22:11 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:13 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:16 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:18 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:20 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:25 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 22:26 : client: [6] opened from 127.0.0.1:58038
+Nov 04 22:26 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 22:26 : client: [6] closed
+Nov 04 22:26 : client: [7] opened from 127.0.0.1:58040
+Nov 04 22:26 : client: [7] closed
+Nov 04 22:26 : client: [8] opened from 127.0.0.1:58042
+Nov 04 22:26 : client: [8] closed
+Nov 04 22:26 : client: [9] opened from 127.0.0.1:58044
+Nov 04 22:26 : client: [9] closed
+Nov 04 22:26 : client: [10] opened from 127.0.0.1:58062
+Nov 04 22:26 : client: [10] closed
+Nov 04 22:26 : client: [11] opened from 127.0.0.1:58068
+Nov 04 22:26 : client: [11] closed
+Nov 04 22:26 : client: [12] opened from 127.0.0.1:58070
+Nov 04 22:26 : client: [12] closed
+Nov 04 22:33 : client: [13] opened from 127.0.0.1:58198
+Nov 04 22:33 : client: [13] closed
+Nov 04 22:34 : client: [14] opened from 127.0.0.1:58202
+Nov 04 22:34 : client: [14] closed
+Nov 04 22:47 : client: [15] opened from 127.0.0.1:58348
+Nov 04 22:47 : client: [15] closed
+Nov 04 22:47 : client: [16] opened from 127.0.0.1:58354
+Nov 04 22:47 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 22:47 : client: [16] closed
+Nov 04 22:50 : client: [17] opened from 127.0.0.1:58410
+Nov 04 22:50 : client: [17] closed
+Nov 04 22:51 : client: [18] opened from 127.0.0.1:58412
+Nov 04 22:51 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 22:51 : client: [18] closed
+Nov 04 22:55 : client: [19] opened from 127.0.0.1:58514
+Nov 04 22:55 : client: [19] closed
+Nov 04 22:55 : client: [20] opened from 127.0.0.1:58518
+Nov 04 22:55 : player: played "Laura Branigan-Self Control.opus"
+Nov 04 22:55 : client: [20] closed
+Nov 04 22:56 : client: [21] opened from 127.0.0.1:58522
+Nov 04 22:56 : client: [21] closed
+Nov 04 22:56 : client: [22] opened from 127.0.0.1:58526
+Nov 04 22:56 : client: [22] closed
+Nov 04 22:57 : client: [23] opened from 127.0.0.1:58530
+Nov 04 22:57 : client: [23] closed
+Nov 04 22:57 : client: [24] opened from 127.0.0.1:58534
+Nov 04 22:57 : client: [24] closed
+Nov 04 22:57 : client: [25] opened from 127.0.0.1:58536
+Nov 04 22:57 : client: [25] closed
+Nov 04 22:57 : client: [26] opened from 127.0.0.1:58542
+Nov 04 22:58 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 22:58 : client: [27] opened from 127.0.0.1:58546
+Nov 04 22:58 : client: [27] closed
+Nov 04 22:58 : client: [26] closed
+Nov 04 22:58 : client: [28] opened from 127.0.0.1:58556
+Nov 04 22:58 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 22:58 : client: [28] closed
+Nov 04 22:59 : client: [29] opened from 127.0.0.1:58558
+Nov 04 22:59 : client: [29] closed
+Nov 04 23:00 : client: [30] opened from 127.0.0.1:58568
+Nov 04 23:00 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:00 : client: [30] closed
+Nov 04 23:00 : client: [31] opened from 127.0.0.1:58570
+Nov 04 23:00 : client: [31] closed
+Nov 04 23:01 : client: [32] opened from 127.0.0.1:58574
+Nov 04 23:01 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:01 : client: [32] closed
+Nov 04 23:02 : client: [33] opened from 127.0.0.1:58578
+Nov 04 23:02 : client: [33] closed
+Nov 04 23:02 : client: [34] opened from 127.0.0.1:58582
+Nov 04 23:02 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:02 : client: [34] closed
+Nov 04 23:02 : client: [35] opened from 127.0.0.1:58586
+Nov 04 23:02 : client: [35] closed
+Nov 04 23:14 : client: [36] opened from 127.0.0.1:58700
+Nov 04 23:14 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:14 : client: [36] closed
+Nov 04 23:16 : client: [37] opened from 127.0.0.1:58758
+Nov 04 23:16 : client: [37] closed
+Nov 04 23:16 : client: [38] opened from 127.0.0.1:58764
+Nov 04 23:16 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:16 : client: [38] closed
+Nov 04 23:18 : client: [39] opened from 127.0.0.1:58824
+Nov 04 23:18 : client: [39] closed
+Nov 04 23:21 : client: [40] opened from 127.0.0.1:58854
+Nov 04 23:21 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:21 : client: [40] closed
+Nov 04 23:21 : client: [41] opened from 127.0.0.1:58858
+Nov 04 23:21 : client: [41] closed
+Nov 04 23:23 : client: [42] opened from 127.0.0.1:58980
+Nov 04 23:23 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:23 : client: [43] opened from 127.0.0.1:58982
+Nov 04 23:23 : client: [43] closed
+Nov 04 23:24 : client: [44] opened from 127.0.0.1:58988
+Nov 04 23:24 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : client: [44] closed
+Nov 04 23:26 : client: [45] opened from 127.0.0.1:58992
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:27 : client: [46] opened from 127.0.0.1:58994
+Nov 04 23:27 : client: [46] closed
+Nov 04 23:27 : client: [47] opened from 127.0.0.1:58996
+Nov 04 23:27 : client: [47] closed
+Nov 04 23:27 : client: [48] opened from 127.0.0.1:58998
+Nov 04 23:27 : client: [48] closed
+Nov 04 23:27 : client: [49] opened from 127.0.0.1:59000
+Nov 04 23:27 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 04 23:27 : client: [49] closed
+Nov 04 23:30 : client: [42] closed
+Nov 04 23:39 : update: added /Mozart-Requiem.opus
+Nov 04 23:39 : client: [50] opened from 127.0.0.1:59418
+Nov 04 23:39 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 04 23:39 : client: [50] closed
+Nov 04 23:40 : client: [45] closed
+Nov 04 23:40 : client: [51] opened from 127.0.0.1:59422
+Nov 04 23:40 : client: [51] closed
+Nov 04 23:41 : client: [52] opened from 127.0.0.1:59436
+Nov 04 23:41 : client: [52] closed
+Nov 04 23:42 : client: [53] opened from 127.0.0.1:59442
+Nov 04 23:42 : client: [53] closed
+Nov 04 23:43 : client: [54] opened from 127.0.0.1:59446
+Nov 04 23:43 : client: [54] closed
+Nov 04 23:44 : client: [55] opened from 127.0.0.1:59452
+Nov 04 23:44 : client: [55] closed
+Nov 04 23:45 : client: [56] opened from 127.0.0.1:59456
+Nov 04 23:45 : client: [56] closed
+Nov 04 23:48 : client: [57] opened from 127.0.0.1:59560
+Nov 04 23:48 : client: [57] closed
+Nov 04 23:49 : client: [58] opened from 127.0.0.1:59564
+Nov 04 23:49 : player: played "Mozart-Requiem.opus"
+Nov 04 23:49 : client: [58] closed
+Nov 04 23:49 : client: [59] opened from 127.0.0.1:59568
+Nov 04 23:49 : client: [59] closed
+Nov 04 23:51 : client: [60] opened from 127.0.0.1:59590
+Nov 04 23:51 : player: played "Mozart-Requiem.opus"
+Nov 04 23:51 : client: [60] closed
+Nov 04 23:52 : client: [61] opened from 127.0.0.1:59596
+Nov 04 23:52 : client: [61] closed
+Nov 04 23:53 : client: [62] opened from 127.0.0.1:59638
+Nov 04 23:53 : player: played "Mozart-Requiem.opus"
+Nov 04 23:53 : client: [62] closed
+Nov 05 05:30 : client: [0] closed
+Nov 05 18:54 : avahi: Failed to create client: Daemon not running
+Nov 05 18:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 18:54 : client: [0] opened from 127.0.0.1:42278
+Nov 05 18:58 : client: [1] opened from 127.0.0.1:42726
+Nov 05 18:58 : client: [1] closed
+Nov 05 18:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 18:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 05 18:58 : client: [2] opened from 127.0.0.1:42730
+Nov 05 18:58 : client: [2] closed
+Nov 05 18:58 : client: [3] opened from 127.0.0.1:42732
+Nov 05 18:58 : client: [3] closed
+Nov 05 18:58 : client: [4] opened from 127.0.0.1:42734
+Nov 05 18:58 : client: [4] closed
+Nov 05 19:03 : player: played "Laura Branigan-Self Control.opus"
+Nov 05 19:05 : client: [5] opened from 127.0.0.1:42956
+Nov 05 19:05 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 05 19:05 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 05 19:05 : client: [5] closed
+Nov 05 19:06 : client: [6] opened from 127.0.0.1:42958
+Nov 05 19:06 : player: played "Mozart-Requiem.opus"
+Nov 05 19:06 : client: [6] closed
+Nov 05 19:57 : client: [7] opened from 127.0.0.1:43334
+Nov 05 19:57 : client: [7] closed
+Nov 05 20:06 : player: played "Mozart-Requiem.opus"
+Nov 05 20:08 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 05 20:10 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 05 20:12 : client: [8] opened from 127.0.0.1:44320
+Nov 05 20:12 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 05 20:12 : client: [8] closed
+Nov 05 21:30 : client: [9] opened from 127.0.0.1:45480
+Nov 05 21:30 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 05 21:30 : client: [9] closed
+Nov 05 21:31 : client: [10] opened from 127.0.0.1:45494
+Nov 05 21:31 : client: [10] closed
+Nov 05 21:48 : update: added /Boney M-Rasputin.opus
+Nov 05 22:14 : client: [11] opened from 127.0.0.1:46410
+Nov 05 22:14 : client: [11] closed
+Nov 05 22:14 : client: [12] opened from 127.0.0.1:46412
+Nov 05 22:14 : client: [12] closed
+Nov 05 22:14 : client: [13] opened from 127.0.0.1:46414
+Nov 05 22:14 : client: [13] closed
+Nov 05 22:14 : client: [14] opened from 127.0.0.1:46416
+Nov 05 22:14 : client: [14] closed
+Nov 05 22:14 : client: [15] opened from 127.0.0.1:46418
+Nov 05 22:14 : client: [15] closed
+Nov 05 22:14 : client: [16] opened from 127.0.0.1:46420
+Nov 05 22:14 : client: [16] closed
+Nov 05 22:14 : client: [17] opened from 127.0.0.1:46422
+Nov 05 22:14 : client: [17] closed
+Nov 05 22:14 : client: [18] opened from 127.0.0.1:46424
+Nov 05 22:14 : client: [18] closed
+Nov 05 22:14 : client: [19] opened from 127.0.0.1:46426
+Nov 05 22:14 : client: [19] closed
+Nov 05 22:14 : client: [20] opened from 127.0.0.1:46428
+Nov 05 22:14 : client: [20] closed
+Nov 05 22:14 : client: [21] opened from 127.0.0.1:46432
+Nov 05 22:14 : player: played "Mozart-Requiem.opus"
+Nov 05 22:14 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 05 22:14 : client: [21] closed
+Nov 05 22:20 : player: played "Boney M-Rasputin.opus"
+Nov 05 22:20 : client: [22] opened from 127.0.0.1:46918
+Nov 05 22:20 : player: played "Boney M-Rasputin.opus"
+Nov 05 22:20 : client: [22] closed
+Nov 06 00:05 : client: [23] opened from 127.0.0.1:49122
+Nov 06 00:05 : client: [23] closed
+Nov 06 00:05 : client: [24] opened from 127.0.0.1:49124
+Nov 06 00:05 : player: played "Boney M-Rasputin.opus"
+Nov 06 00:05 : client: [24] closed
+Nov 06 00:51 : client: [25] opened from 127.0.0.1:50010
+Nov 06 00:51 : client: [25] closed
+Nov 06 00:51 : client: [26] opened from 127.0.0.1:50012
+Nov 06 00:51 : player: played "Boney M-Rasputin.opus"
+Nov 06 00:51 : client: [26] closed
+Nov 06 02:38 : client: [0] closed
+Nov 06 20:19 : avahi: Failed to create client: Daemon not running
+Nov 06 20:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 06 20:19 : client: [0] opened from 127.0.0.1:40932

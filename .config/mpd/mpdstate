@@ -1,9 +1,8 @@
-sw_volume: 58
+sw_volume: 100
 audio_device_state:1:mpd alsamixer-output
 audio_device_state:1:toggle_visualizer
-state: play
-current: 4
-time: 4.073000
+state: stop
+current: 0
 random: 0
 repeat: 1
 single: 0
@@ -12,14 +11,5 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Там шли два брата.m4a
-1:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
-2:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
-3:Там шли два брата.m4a
-4:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
-5:Там шли два брата.m4a
-6:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
-7:Там шли два брата.m4a
-8:Gucci Mane-Big Booty ft. Megan Thee Stallion.opus
-9:Там шли два брата.m4a
+0:Boney M-Rasputin.opus
 playlist_end

@@ -11,3 +11,9 @@
 # ffmpeg ile sesli video ekran kaydı almak için
 
 "ffmpeg -f x11grab -video_size 1920x1080 -framerate 25 -i $DISPLAY -f alsa -i default -c:v libx264 -preset ultrafast -c:a aac screen.mkv" komutunu girebiliriz.
+
+# format atmak için USB yazdırma
+
+"sudo dd bs=4M if=void-live-x86_64-20181111.iso of=/dev/sdc status=progress && sync" komutunu girebiliriz.
+
+void-live yazan bölüme başka bir distro'nun dizin yolunu ve /dev/sdc yazan bölümeyse "lsblk" komutu ile öğrendiğimiz USB belleğin kök dizinini girebiliriz.
