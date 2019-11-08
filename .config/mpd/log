@@ -4120,3 +4120,70 @@ Nov 06 02:38 : client: [0] closed
 Nov 06 20:19 : avahi: Failed to create client: Daemon not running
 Nov 06 20:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Nov 06 20:19 : client: [0] opened from 127.0.0.1:40932
+Nov 07 03:23 : client: [0] closed
+Nov 07 14:56 : avahi: Failed to create client: Daemon not running
+Nov 07 14:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 14:56 : client: [0] opened from 127.0.0.1:58900
+Nov 07 16:41 : client: [1] opened from 127.0.0.1:60884
+Nov 07 16:41 : client: [1] closed
+Nov 07 16:41 : client: [2] opened from 127.0.0.1:60886
+Nov 07 16:41 : client: [2] closed
+Nov 07 16:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 16:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 07 16:46 : player: played "Boney M-Rasputin.opus"
+Nov 07 16:52 : player: played "Boney M-Rasputin.opus"
+Nov 07 16:57 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:03 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:08 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:14 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:19 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:24 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:30 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:33 : client: [3] opened from 127.0.0.1:34510
+Nov 07 17:33 : player: played "Boney M-Rasputin.opus"
+Nov 07 17:33 : client: [3] closed
+Nov 08 03:50 : client: [4] opened from 127.0.0.1:41010
+Nov 08 03:50 : client: [4] closed
+Nov 08 03:50 : client: [5] opened from 127.0.0.1:41012
+Nov 08 03:50 : client: [5] closed
+Nov 08 03:51 : client: [0] closed
+Nov 08 03:51 : player: played "Boney M-Rasputin.opus"
+Nov 08 03:51 : avahi: Failed to create client: Daemon not running
+Nov 08 03:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 03:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 03:51 : client: [0] opened from 127.0.0.1:57330
+Nov 08 03:56 : client: [1] opened from 127.0.0.1:57404
+Nov 08 03:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 03:56 : client: [1] closed
+Nov 08 03:56 : client: [2] opened from 127.0.0.1:57406
+Nov 08 03:56 : player: played "Boney M-Rasputin.opus"
+Nov 08 03:56 : client: [2] closed
+Nov 08 04:12 : client: [3] opened from 127.0.0.1:57530
+Nov 08 04:12 : client: [3] closed
+Nov 08 04:17 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:23 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:28 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:34 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:39 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:45 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:50 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:56 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:59 : client: [4] opened from 127.0.0.1:57914
+Nov 08 04:59 : player: played "Boney M-Rasputin.opus"
+Nov 08 04:59 : client: [4] closed
+Nov 08 05:21 : client: [5] opened from 127.0.0.1:58062
+Nov 08 05:21 : client: [5] closed
+Nov 08 05:21 : client: [6] opened from 127.0.0.1:58064
+Nov 08 05:21 : client: [6] closed
+Nov 08 05:21 : client: [7] opened from 127.0.0.1:58066
+Nov 08 05:21 : player: played "Boney M-Rasputin.opus"
+Nov 08 05:21 : client: [7] closed
+Nov 08 05:23 : client: [8] opened from 127.0.0.1:58068
+Nov 08 05:23 : client: [8] closed
+Nov 08 05:23 : client: [9] opened from 127.0.0.1:58070
+Nov 08 05:23 : player: played "Boney M-Rasputin.opus"
+Nov 08 05:23 : client: [9] closed
+Nov 08 06:47 : client: [0] closed
+Nov 08 15:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 15:47 : avahi: Failed to create client: Daemon not running
+Nov 08 15:47 : client: [0] opened from 127.0.0.1:49746
