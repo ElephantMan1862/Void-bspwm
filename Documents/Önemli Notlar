@@ -3,12 +3,12 @@
 Paket Yükleme/Güncelleme : "sudo xbps-install -S pkg"
 Sistem Güncelleme : "sudo xbps-install -Su"
 Repoda Paket Arama : "sudo xbps-query -Rs pkg"
-Elle Kurulan Paketleri Listeleme : "sudo xbps-query -m"
 Tek Bir Paketi Kaldırma : "sudo xbps-remove pkg"
 Yüklenen Paketi Bağımlılıklarıyla Birlikte Kaldırma : "sudo xbps-remove -R pkg"
 Gereksiz Paketleri ve Önbelleği Temizleme : "sudo xbps-remove -Oo"
 Yüklü Bir Paketteki Hataları Kontrol Etme : "sudo xbps-pkgdb pkg"
 Tüm Kurulu Paketlerdeki Hataları Kontrol Etme : "sudo xbps-pkgdb -a"
+Elle Kurulan Paketleri Listeleme : "sudo xbps-query -m"
 Yüklü Paketleri Listeleme : "sudo xbps-query -l" (Bu komut ayrıca yapılandırılmamış paketlerin listesini de gösterir. Yapılandırılan paketler "ii" yapılandırılmayanlar "uu" şeklinde gösterilir.
 Paketlenmemiş Durumda Olan Bir Paketi Yapılandırma : "sudo xbps-reconfigure pkg"
 Paketlenmemiş Durumda Olan Tüm Paketleri Yapılandırma : "sudo xbps-reconfigure -a"

@@ -4187,3 +4187,66 @@ Nov 08 06:47 : client: [0] closed
 Nov 08 15:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Nov 08 15:47 : avahi: Failed to create client: Daemon not running
 Nov 08 15:47 : client: [0] opened from 127.0.0.1:49746
+Nov 08 22:00 : client: [0] closed
+Nov 08 22:01 : avahi: Failed to create client: Daemon not running
+Nov 08 22:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 22:01 : client: [0] opened from 127.0.0.1:47358
+Nov 08 22:16 : client: [1] opened from 127.0.0.1:47616
+Nov 08 22:16 : client: [1] closed
+Nov 08 22:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 22:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 22:21 : client: [0] closed
+Nov 08 22:21 : exception: Failed to play on "mpd alsamixer-output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Nov 08 22:21 : player: played "Boney M-Rasputin.opus"
+Nov 08 22:22 : avahi: Failed to create client: Daemon not running
+Nov 08 22:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 22:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 22:22 : client: [0] opened from 127.0.0.1:46676
+Nov 08 22:22 : client: [1] opened from 127.0.0.1:46682
+Nov 08 22:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 22:22 : client: [1] closed
+Nov 08 22:22 : player: played "Boney M-Rasputin.opus"
+Nov 08 22:28 : player: played "Boney M-Rasputin.opus"
+Nov 08 22:33 : player: played "Boney M-Rasputin.opus"
+Nov 08 22:37 : client: [2] opened from 127.0.0.1:46978
+Nov 08 22:37 : player: played "Boney M-Rasputin.opus"
+Nov 08 22:37 : client: [2] closed
+Nov 08 23:20 : client: [3] opened from 127.0.0.1:47864
+Nov 08 23:20 : client: [3] closed
+Nov 08 23:20 : client: [4] opened from 127.0.0.1:47868
+Nov 08 23:20 : client: [4] closed
+Nov 08 23:20 : client: [5] opened from 127.0.0.1:47876
+Nov 08 23:20 : client: [5] closed
+Nov 09 02:06 : client: [0] closed
+Nov 09 02:06 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 16:09 : avahi: Failed to create client: Daemon not running
+Nov 19 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 16:09 : client: [0] opened from 127.0.0.1:47162
+Nov 19 16:09 : client: [1] opened from 127.0.0.1:47164
+Nov 19 16:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 16:09 : client: [1] closed
+Nov 19 16:15 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:20 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:22 : client: [2] opened from 127.0.0.1:47852
+Nov 19 16:22 : client: [2] closed
+Nov 19 16:22 : client: [3] opened from 127.0.0.1:47856
+Nov 19 16:23 : client: [3] closed
+Nov 19 16:23 : client: [4] opened from 127.0.0.1:47864
+Nov 19 16:25 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 19 16:26 : client: [4] closed
+Nov 19 16:26 : client: [5] opened from 127.0.0.1:47940
+Nov 19 16:26 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 19 16:27 : client: [5] closed
+Nov 19 16:29 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:29 : client: [6] opened from 127.0.0.1:47986
+Nov 19 16:29 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:29 : client: [6] closed
+Nov 19 16:29 : client: [7] opened from 127.0.0.1:47988
+Nov 19 16:29 : client: [7] closed
+Nov 19 16:34 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:40 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:45 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:47 : client: [8] opened from 127.0.0.1:48358
+Nov 19 16:47 : player: played "Boney M-Rasputin.opus"
+Nov 19 16:47 : client: [8] closed
