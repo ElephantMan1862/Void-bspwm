@@ -4250,3 +4250,202 @@ Nov 19 16:45 : player: played "Boney M-Rasputin.opus"
 Nov 19 16:47 : client: [8] opened from 127.0.0.1:48358
 Nov 19 16:47 : player: played "Boney M-Rasputin.opus"
 Nov 19 16:47 : client: [8] closed
+Nov 19 22:05 : client: [0] closed
+Nov 19 22:06 : avahi: Failed to create client: Daemon not running
+Nov 19 22:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 22:06 : client: [0] opened from 127.0.0.1:41994
+Nov 20 01:05 : client: [1] opened from 127.0.0.1:46432
+Nov 20 01:05 : client: [1] closed
+Nov 20 01:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 01:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 01:05 : client: [2] opened from 127.0.0.1:46434
+Nov 20 01:05 : player: played "Boney M-Rasputin.opus"
+Nov 20 01:05 : client: [2] closed
+Nov 20 02:42 : client: [0] closed
+Nov 20 13:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 13:15 : avahi: Failed to create client: Daemon not running
+Nov 20 13:15 : client: [0] opened from 127.0.0.1:40486
+Nov 20 18:20 : client: [1] opened from 127.0.0.1:48656
+Nov 20 18:20 : client: [1] closed
+Nov 20 18:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 18:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 18:20 : client: [2] opened from 127.0.0.1:48658
+Nov 20 18:20 : client: [2] closed
+Nov 20 18:20 : client: [3] opened from 127.0.0.1:48660
+Nov 20 18:20 : player: played "Boney M-Rasputin.opus"
+Nov 20 18:20 : client: [3] closed
+Nov 20 21:00 : client: [4] opened from 127.0.0.1:51452
+Nov 20 21:00 : client: [4] closed
+Nov 20 21:00 : client: [5] opened from 127.0.0.1:51456
+Nov 20 21:00 : client: [5] closed
+Nov 20 21:00 : client: [0] closed
+Nov 20 21:00 : exception: Failed to play on "mpd alsamixer-output" (alsa): snd_pcm_poll_descriptors_revents() failed: Input/output error
+Nov 20 21:00 : client: [6] opened from 127.0.0.1:51458
+Nov 20 21:00 : client: [7] opened from 127.0.0.1:51506
+Nov 20 21:00 : exception: Failed to open /home/dogukan/.config/mpd/playlists: No such file or directory
+Nov 20 21:02 : client: [8] opened from 127.0.0.1:51602
+Nov 20 21:02 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 20 21:02 : client: [8] closed
+Nov 20 23:51 : client: [7] closed
+Nov 21 00:11 : client: [9] opened from 127.0.0.1:54176
+Nov 21 00:11 : client: [9] closed
+Nov 21 00:11 : client: [10] opened from 127.0.0.1:54178
+Nov 21 00:11 : player: played "Gucci Mane-Big Booty ft. Megan Thee Stallion.opus"
+Nov 21 00:11 : client: [10] closed
+Nov 21 03:38 : client: [6] closed
+Nov 21 13:32 : avahi: Failed to create client: Daemon not running
+Nov 21 13:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 13:32 : client: [0] opened from 127.0.0.1:33966
+Nov 22 05:48 : client: [0] closed
+Nov 22 14:41 : avahi: Failed to create client: Daemon not running
+Nov 22 14:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 14:41 : client: [0] opened from 127.0.0.1:47568
+Nov 22 20:05 : client: [0] closed
+Nov 22 20:05 : client: [1] opened from 127.0.0.1:52610
+Nov 22 20:09 : client: [1] closed
+Nov 22 20:10 : client: [2] opened from 127.0.0.1:52620
+Nov 22 20:53 : client: [2] closed
+Nov 22 20:53 : client: [3] opened from 127.0.0.1:53602
+Nov 22 20:56 : client: [3] closed
+Nov 22 20:56 : client: [4] opened from 127.0.0.1:53608
+Nov 22 20:58 : client: [4] closed
+Nov 22 20:58 : client: [5] opened from 127.0.0.1:53656
+Nov 22 20:59 : client: [5] closed
+Nov 22 20:59 : client: [6] opened from 127.0.0.1:53658
+Nov 22 21:21 : client: [6] closed
+Nov 22 21:21 : client: [7] opened from 127.0.0.1:53948
+Nov 22 21:26 : client: [7] closed
+Nov 22 21:27 : client: [8] opened from 127.0.0.1:53986
+Nov 22 21:34 : client: [8] closed
+Nov 22 21:34 : client: [9] opened from 127.0.0.1:54314
+Nov 22 21:36 : client: [9] closed
+Nov 22 21:36 : client: [10] opened from 127.0.0.1:54368
+Nov 22 21:39 : client: [10] closed
+Nov 22 21:39 : client: [11] opened from 127.0.0.1:54452
+                                   Nov 22 21:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 21:46 : client: [0] opened from 127.0.0.1:53938
+Nov 22 22:00 : client: [0] closed
+Nov 22 22:00 : client: [1] opened from 127.0.0.1:54168
+Nov 22 22:10 : client: [1] closed
+Nov 22 22:10 : client: [2] opened from 127.0.0.1:54286
+Nov 22 22:23 : client: [2] closed
+Nov 22 22:23 : client: [3] opened from 127.0.0.1:54680
+Nov 23 01:23 : client: [3] closed
+Nov 23 01:23 : client: [4] opened from 127.0.0.1:57900
+Nov 23 01:40 : client: [4] closed
+Nov 23 01:40 : client: [5] opened from 127.0.0.1:58098
+Nov 23 01:45 : client: [5] closed
+Nov 23 01:45 : client: [6] opened from 127.0.0.1:58200
+Nov 23 01:47 : client: [6] closed
+Nov 23 01:47 : client: [7] opened from 127.0.0.1:58202
+Nov 23 01:50 : client: [7] closed
+Nov 23 01:50 : client: [8] opened from 127.0.0.1:58296
+Nov 23 04:52 : client: [8] closed
+Nov 23 04:52 : avahi: Client Disconnected, will reconnect shortly
+Nov 23 04:52 : avahi: Could not reconnect: Daemon not running
+Nov 23 14:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 14:45 : client: [0] opened from 127.0.0.1:34578
+Nov 24 04:46 : avahi: Client Disconnected, will reconnect shortly
+Nov 24 04:46 : avahi: Could not reconnect: Daemon not running
+Nov 24 04:46 : client: [0] closed
+Nov 24 13:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 13:17 : client: [0] opened from 127.0.0.1:53810
+Nov 24 13:45 : avahi: Client Disconnected, will reconnect shortly
+Nov 24 13:45 : avahi: Could not reconnect: Daemon not running
+Nov 24 13:45 : client: [0] closed
+Nov 24 19:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 19:24 : client: [0] opened from 127.0.0.1:48498
+Nov 25 00:46 : avahi: Client Disconnected, will reconnect shortly
+Nov 25 00:46 : avahi: Could not reconnect: Daemon not running
+Nov 25 00:46 : client: [0] closed
+Nov 25 18:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 18:43 : client: [0] opened from 127.0.0.1:44798
+Nov 26 00:24 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 00:24 : avahi: Could not reconnect: Daemon not running
+Nov 26 00:24 : client: [0] closed
+Nov 26 19:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 19:13 : client: [0] opened from 127.0.0.1:49128
+Nov 27 01:22 : client: [0] closed
+Nov 27 01:22 : avahi: Client Disconnected, will reconnect shortly
+Nov 27 01:22 : avahi: Could not reconnect: Daemon not running
+Nov 27 18:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 27 18:31 : client: [0] opened from 127.0.0.1:58018
+Nov 27 21:14 : avahi: Client Disconnected, will reconnect shortly
+Nov 27 21:14 : avahi: Could not reconnect: Daemon not running
+Nov 27 21:14 : client: [0] closed
+Nov 28 17:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 28 17:52 : client: [0] opened from 127.0.0.1:40252
+Nov 29 01:05 : avahi: Client Disconnected, will reconnect shortly
+Nov 29 01:05 : avahi: Could not reconnect: Daemon not running
+Nov 29 01:05 : client: [0] closed
+Nov 29 16:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 29 16:00 : client: [0] opened from 127.0.0.1:55734
+Nov 30 03:36 : avahi: Client Disconnected, will reconnect shortly
+Nov 30 03:36 : avahi: Could not reconnect: Daemon not running
+Nov 30 03:36 : client: [0] closed
+Nov 30 19:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 19:18 : client: [0] opened from 127.0.0.1:33030
+Dec 01 00:01 : avahi: Client Disconnected, will reconnect shortly
+Dec 01 00:01 : avahi: Could not reconnect: Daemon not running
+Dec 01 00:01 : client: [0] closed
+Dec 01 15:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 01 15:12 : client: [0] opened from 127.0.0.1:50600
+Dec 01 21:44 : avahi: Client Disconnected, will reconnect shortly
+Dec 01 21:44 : avahi: Could not reconnect: Daemon not running
+Dec 01 21:44 : client: [0] closed
+Dec 02 18:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 02 18:59 : client: [0] opened from 127.0.0.1:42052
+Dec 02 22:04 : avahi: Client Disconnected, will reconnect shortly
+Dec 02 22:04 : avahi: Could not reconnect: Daemon not running
+Dec 02 22:04 : client: [0] closed
+Dec 03 08:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 08:14 : client: [0] opened from 127.0.0.1:37768
+Dec 03 08:29 : client: [0] closed
+Dec 03 08:29 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 08:29 : avahi: Could not reconnect: Daemon not running
+Dec 03 17:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 17:33 : client: [0] opened from 127.0.0.1:59066
+Dec 03 21:00 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 21:00 : avahi: Could not reconnect: Daemon not running
+Dec 03 21:00 : client: [0] closed
+Dec 03 21:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 03 21:43 : client: [0] opened from 127.0.0.1:45492
+Dec 03 23:00 : avahi: Client Disconnected, will reconnect shortly
+Dec 03 23:00 : avahi: Could not reconnect: Daemon not running
+Dec 03 23:00 : client: [0] closed
+Dec 04 19:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 04 19:11 : client: [0] opened from 127.0.0.1:54296
+Dec 04 23:26 : client: [0] closed
+Dec 04 23:26 : avahi: Client Disconnected, will reconnect shortly
+Dec 04 23:26 : avahi: Could not reconnect: Daemon not running
+Dec 05 19:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 05 19:16 : client: [0] opened from 127.0.0.1:58932
+Dec 05 23:21 : avahi: Client Disconnected, will reconnect shortly
+Dec 05 23:21 : avahi: Could not reconnect: Daemon not running
+Dec 05 23:21 : client: [0] closed
+Dec 06 18:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 06 18:36 : client: [0] opened from 127.0.0.1:35410
+Dec 07 02:02 : avahi: Client Disconnected, will reconnect shortly
+Dec 07 02:02 : avahi: Could not reconnect: Daemon not running
+Dec 07 02:02 : client: [0] closed
+Dec 07 12:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 07 12:24 : client: [0] opened from 127.0.0.1:60912
+Dec 08 02:50 : client: [0] closed
+Dec 08 02:50 : avahi: Client Disconnected, will reconnect shortly
+Dec 08 02:50 : avahi: Could not reconnect: Daemon not running
+Dec 08 11:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 11:57 : avahi: Failed to create client: Daemon not running
+Dec 08 11:57 : client: [0] opened from 127.0.0.1:34074
+Dec 08 20:12 : client: [1] opened from 127.0.0.1:43954
+Dec 08 20:12 : client: [1] closed
+Dec 08 20:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 20:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 08 20:12 : client: [2] opened from 127.0.0.1:43956
+Dec 08 20:12 : client: [2] closed
+Dec 08 20:12 : client: [3] opened from 127.0.0.1:43958
+Dec 08 20:12 : player: played "Laura Branigan-Self Control.opus"
+Dec 08 20:12 : client: [3] closed
+Dec 09 00:56 : client: [0] closed
+Dec 09 18:51 : avahi: Failed to create client: Daemon not running
+Dec 09 18:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Dec 09 18:51 : client: [0] opened from 127.0.0.1:35510
