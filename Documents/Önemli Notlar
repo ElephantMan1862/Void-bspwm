@@ -14,9 +14,9 @@ Yüklü Paketleri Listeleme : "sudo xbps-query -l" (Bu komut ayrıca yapılandı
 Paketlenmemiş Durumda Olan Bir Paketi Yapılandırma : "sudo xbps-reconfigure pkg"
 Paketlenmemiş Durumda Olan Tüm Paketleri Yapılandırma : "sudo xbps-reconfigure -a"
 
-# runit servisleri aktif etme ve devre dışı bırakma
+# runit servisleri aktif etme ve devre dışı bırakma (root olup komutları uygula)
 ln -s /etc/sv/service_name /var/service/
-m /var/service/service_name
+rm /var/service/service_name
 
 # root için bash aktif etme
 
