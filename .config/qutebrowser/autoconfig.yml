@@ -188,6 +188,9 @@ settings:
     global: '#f92672'
   colors.webpage.bg:
     global: white
+  content.headers.user_agent:
+    global: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/76.0.3809.132 Safari/537.36
   fonts.completion.category:
     global: bold 10pt "DejaVu Sans Mono"
   fonts.completion.entry:
